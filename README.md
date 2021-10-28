@@ -1,1 +1,4 @@
 # Shooter-Game
+
+This shooter game is based off characters created by Nintendo. It’s a simple shooter game where the player, Kirby, the pink protagonist,
+fights against three types of enemies, Chilly’s, Waddledees and Wheelies. It was programmed through Processing which is a version of Java. You use the arrow keys to move the character, and the spacebar to shoot star shaped projectiles. When controlling the character, there are multiple animations depending on the events happening. Such as walking, shooting, and dying. The enemies also come in three different levels. Waddledees having the lowest health and speed, Chilly’s being able to shoot back with more health. and Wheelies who do not appear as often but move very quickly with only a short notice. This program uses object-oriented programming with inheritance, polymorphism, and encapsulation.
